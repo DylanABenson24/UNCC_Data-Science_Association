@@ -2,8 +2,9 @@
 This repository is an outlet for the content I am presenting to the UNCC Association of Data Science as the current President for 2024-2025. Feel free to refer to this content for reference or extra-curricular uses. Take a look below for specifics on content, licenses, and outside usage!
 
 ## Content
-- First meeting consisted of an introductory overview on SQL, covering high level topics and a code walkthrough. We utilized this overview for a collaborative online game to dive deeper into these SQL topics, escaping SQL Island.
-- Second meeting consisted of March Madness Analytics. I presented a step-by-step approach for generating models for predictions, and went over a code sample I generated in Python. This presentation also features sources for the 2023 and 2024 Kaggle Competitions.
+- First meeting: Introductory overview on SQL, covering high level topics and a code walkthrough. We utilized this overview for a collaborative online game to dive deeper into these SQL topics, escaping SQL Island.
+- Second meeting: March Madness Analytics- presented a step-by-step approach for generating models for predictions, and went over a code sample I generated in Python. This presentation also features sources for the 2023 and 2024 Kaggle Competitions.
+- Third meeting: Introductory overview of Streamlit- covered basic concepts and essential syntax necessary for getting started with web app development in Python using Streamlit. Content in this repository is accessible, including Python code for a basic Sample website utilizing Streamlit.
   
 ## License
 This project is licensed under the MIT License.
