@@ -3,12 +3,16 @@ This repository is an outlet for the content I am presenting to the UNCC Associa
 
 ## Content
 ### Spring 2024
-- Introductory overview on SQL- covering high level topics and a code walkthrough. We utilized this overview for a collaborative online game to dive deeper into these SQL topics, escaping SQL Island. ("SQL Walkthrough.pptx", "SQL Walkthrough.sql")
-- March Madness Analytics- presented a step-by-step approach for generating models for predictions, and went over a code sample I generated in Python. This presentation also features sources for the 2023 and 2024 Kaggle Competitions. ("March Madness ADS.pptx", "March_Madness_Prediction_Sample.ipynb")
-- Introductory overview of Streamlit- covered basic concepts and essential syntax necessary for getting started with web app development in Python using Streamlit. Content in this repository is accessible, including Python code for a basic Sample website utilizing Streamlit. ("ADS_ Streamlit Introduction.pptx", "StreamlitSample.py")
-- UNCC Hackathon Workshop 2024: Introduced fundamentals in Python- covered basic concepts and essential syntax necessary for data manipulation, visualization, numerical computing, and machine learning. Slides are attached within this repository. ("ADS- Introduction to Data Science_ Python.pptx")
+- Introductory overview on SQL - covering high level topics and a code walkthrough. We utilized this overview for a collaborative online game to dive deeper into these SQL topics, escaping SQL Island. ("SQL Walkthrough.pptx", "SQL Walkthrough.sql")
+- March Madness Analytics - presented a step-by-step approach for generating models for predictions, and went over a code sample I generated in Python. This presentation also features sources for the 2023 and 2024 Kaggle Competitions. ("March Madness ADS.pptx", "March_Madness_Prediction_Sample.ipynb")
+- Introductory overview of Streamlit - covered basic concepts and essential syntax necessary for getting started with web app development in Python using Streamlit. Content in this repository is accessible, including Python code for a basic Sample website utilizing Streamlit. ("ADS_ Streamlit Introduction.pptx", "StreamlitSample.py")
+- UNCC Hackathon Workshop 2024 - Introduced fundamentals in Python- covered basic concepts and essential syntax necessary for data manipulation, visualization, numerical computing, and machine learning. Slides are attached within this repository. ("ADS- Introduction to Data Science_ Python.pptx")
 - Introduction to RNNs, LSTMs, and Neural Networks- covered basic concepts and went over essential elements revolving around the foundations of Neural Networks and their functionality, applications, and role within deep learning as a whole. ("RNN’s, LSTM’s, and Neural Networks.pptx")
 
+### Fall 2024
+- We kicked off this semester with an introductory Data Science workshop, introducing key concepts regarding the data science process, applications, and outlooks for our org this semester, including our Fall 2024 Speaker Series featuring Career Coaches, Industry Professionals, etc.
+- Data Visualization in Python (Workshop) - for this visualization workshop, we introduced the Folium Python package, which is a powerful Python library used for creating interactive maps that are visually appealing and easy to use/integrate. We focused on displaying universities at the state and national levels within the US. At the end of this workshop we integrated an international-level heatmap regarding ecologic footprint data from Folium's official website.
+  
 ## License
 This project is licensed under the MIT License.
 
